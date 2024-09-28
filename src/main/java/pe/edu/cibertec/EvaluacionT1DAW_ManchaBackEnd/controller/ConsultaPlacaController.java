@@ -24,11 +24,11 @@ public class ConsultaPlacaController {
                 return placaResponseDTO;
             } else {
 
-                return new PlacaResponseDTO("Error", "No se encontró la placa", "", "", ""); // Manejo de error
+                return new PlacaResponseDTO("Error", "No se logro encontrar la placa solicitada", "", "", ""); // Manejo de error
             }
         } catch (IOException e) {
 
-            return new PlacaResponseDTO("Error", "Ocurrió un error al consultar la placa", "", "", "");
+            return new PlacaResponseDTO("Error", "Ocurrió error en la consulta", "", "", "");
         }
     }
 }
