@@ -1,2 +1,10 @@
 1;ASR-121;KIA;Sportage;5;26000;Negro
 2;FAD-124;Toyota;Rav;5;26000;Negro
+3;XYZ-345;Ford;Escape;5;30000;Rojo
+4;MNO-678;Chevrolet;Tracker;5;28000;Blanco
+5;JKL-910;Nissan;X-Trail;5;35000;Azul
+6;PQR-112;Hyundai;Tucson;5;32000;Gris
+7;TUV-345;Volkswagen;Tiguan;5;34000;Negro
+8;WXY-678;Subaru;Forester;5;33000;Verde
+9;RST-901;Kia;Seltos;5;29000;Amarillo
+10;ABC-234;Mazda;CX-5;5;36000;Naranja
